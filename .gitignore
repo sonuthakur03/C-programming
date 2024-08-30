@@ -1,1 +1,4 @@
 The Ultimate C Handbook.pdf
+.gitignore
+*.exe
+.vscode
