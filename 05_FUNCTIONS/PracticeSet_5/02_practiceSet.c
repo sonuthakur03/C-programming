@@ -1,3 +1,5 @@
+// Write a function to convert Celsius temperature into Fahrenheit.
+
 #include <stdio.h>
 
 float c2f(float);
